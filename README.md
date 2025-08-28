@@ -12,6 +12,8 @@ I studied Italian with English, Latin, and intercomprehension of Romance languag
 ## Projects
 - [Travel Diary App](https://github.com/whispem/TravelDiaryApp)  
   A mini SwiftUI application to record and visualize your trips ✈️
+- [Zodiacly 🌟](https://github.com/whispem/Zodiacly)
+Discover cosmic connections 🌌 A colorful SwiftUI app for astrology enthusiasts.
 
 ## Interests
 - 🌍 Travel : NYC, Paris, and beyond  
