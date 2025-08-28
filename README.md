@@ -10,9 +10,8 @@ I studied Italian with English, Latin, and intercomprehension of Romance languag
 - **Education :** Aix-Marseille University (AMU), Italian (LLCER)
 
 ## Projects
-- Swift mini-projects exploring app development basics  
-- UI/UX design experiments and creative interfaces  
-- Travel & language-related projects integrating tech and visual storytelling  
+- [Travel Diary App](https://github.com/whispem/TravelDiaryApp)  
+  A mini SwiftUI application to record and visualize your trips ✈️
 
 ## Interests
 - 🌍 Travel : NYC, Paris, and beyond  
