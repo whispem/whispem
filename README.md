@@ -1,4 +1,4 @@
-# Hi there, I'm Emilie 👋
+# Hi there, I'm Emilie (but you can call me Em' !) 👋
 
 I'm a content creator and tech enthusiast, passionate about **UI/UX design, Swift development**, languages, and exploring cities around the world.  
 I studied Italian with English, Latin, and intercomprehension of Romance languages at **AMU**, and recently completed the **Apple Foundation Program**, earning my Swift certification.
