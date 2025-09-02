@@ -16,8 +16,10 @@ I studied Italian with English, Latin, and intercomprehension of Romance languag
 Discover cosmic connections 🌌 A colorful SwiftUI app for astrology enthusiasts.
 
 - [DNA Animation](https://github.com/whispem/DNA-Animation)
-  
   🧬 DNA-inspired loading animation in SwiftUI – just for fun!
+
+- [Moon](https://github.com/whispem/LunarView)
+  🌙 SwiftUI moon animation – simple, elegant, fun  
 
   ## Interests
 - 🌍 Travel : NYC, Paris, and beyond  
