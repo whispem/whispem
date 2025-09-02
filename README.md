@@ -12,10 +12,14 @@ I studied Italian with English, Latin, and intercomprehension of Romance languag
 ## Projects
 
 - [Zodiacly 🌟](https://github.com/whispem/Zodiacly)
-  
-  Discover cosmic connections 🌌 A colorful SwiftUI app for astrology enthusiasts.
 
-## Interests
+Discover cosmic connections 🌌 A colorful SwiftUI app for astrology enthusiasts.
+
+- [DNA Animation](https://github.com/whispem/DNA-Animation)
+  
+  🧬 DNA-inspired loading animation in SwiftUI – just for fun!
+
+  ## Interests
 - 🌍 Travel : NYC, Paris, and beyond  
 - 💻 Tech & app design  
 - 📝 Languages & cultural exploration
