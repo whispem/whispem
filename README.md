@@ -19,7 +19,7 @@ I studied Italian with English, Latin, and intercomprehension of Romance languag
 - [Moon](https://github.com/whispem/LunarView)
   🌙 SwiftUI moon animation – simple, elegant, fun  
 
-  ## Interests
+## Interests
 - 🌍 Travel : NYC, Paris, and beyond  
 - 💻 Tech & app design  
 - 📝 Languages & cultural exploration
