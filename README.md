@@ -13,7 +13,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 ---
 
 ## 🚀 Projects
-- **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization))** – SwiftUI animation inspired by DNA, merging science & creativity.  
+- **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization)** – SwiftUI animation inspired by DNA, merging science & creativity.  
 - **🌙 [Moon](https://github.com/whispem/LunarView)** – Interactive SwiftUI moon animation, showcasing UX finesse.  
 - **📊 Data Visualizations (Upcoming)** – Exploring real-world applications through design-driven code.
 
