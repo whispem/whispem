@@ -13,7 +13,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 ---
 
 ## 🚀 Projects
-- **🧬 [DNA Animation](https://github.com/whispem/DNA-Animation)** – SwiftUI animation inspired by DNA, merging science & creativity.  
+- **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization))** – SwiftUI animation inspired by DNA, merging science & creativity.  
 - **🌙 [Moon](https://github.com/whispem/LunarView)** – Interactive SwiftUI moon animation, showcasing UX finesse.  
 - **📊 Data Visualizations (Upcoming)** – Exploring real-world applications through design-driven code.
 
@@ -21,7 +21,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 
 ---
 
-## 🌟 About Me
+## 🌟 About me
 I love exploring cities, learning new languages, and experimenting with interactive tech.  
 Curiosity drives me, and I thrive at the intersection of design, code, and creativity.  
 
@@ -30,7 +30,7 @@ Always learning. Always iterating. Always coding.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with me
 You can find me here:  
 
 [GitHub](https://github.com/whispem) | [X](https://twitter.com/whisp_em) | [HuggingFace](https://huggingface.co/whispem) | [Kaggle](https://www.kaggle.com/whispem)  
