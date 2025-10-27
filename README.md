@@ -29,7 +29,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 
 ## 🌱 Currently Learning
 
-**Rust** 🦀 – *Started October 27, 2025 at 00:27 UTC*
+**Rust** 🦀 – *Started October 27, 2025 at 00:27 UTC +1*
 
 I'm thrilled to be diving into systems programming! Coming from Swift and mobile development, I'm curious to explore the "other side"—how things work under the hood, memory management, ownership models, and performance-critical code.
 
