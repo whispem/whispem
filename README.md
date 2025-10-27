@@ -20,7 +20,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 - **🌙 [Moon](https://github.com/whispem/LunarView)** – Interactive SwiftUI moon animation, showcasing UX finesse.  
 
 ### Systems & Learning
-- **🦀 [My First Rust Project](https://github.com/whispem/my-first-rust-project)** – Learning Rust fundamentals and systems programming. Started October 27, 2025 at 00:27 UTC +1.
+- **🦀 [My First Rust Project](https://github.com/whispem/my-first-rust-project)** – Learning Rust fundamentals and systems programming. Started October 27, 2025 at 00:27 UTC+1.
 
 ### Upcoming
 - **📊 Data Visualizations** – Exploring real-world applications through design-driven code.
@@ -29,7 +29,7 @@ Building interactive experiences, exploring UI/UX design, and turning ideas into
 
 ## 🌱 Currently Learning
 
-**Rust** 🦀 – *Started October 27, 2025 at 00:27 UTC +1*
+**Rust** 🦀 – *Started October 27, 2025 at 00:27 UTC+1*
 
 I'm thrilled to be diving into systems programming! Coming from Swift and mobile development, I'm curious to explore the "other side"—how things work under the hood, memory management, ownership models, and performance-critical code.
 
