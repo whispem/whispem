@@ -1,65 +1,72 @@
 # Hi, I'm Emilie 👋🏼
-**Creative Technologist & Multi-Platform Developer**  
-Building interactive experiences, exploring UI/UX design, and turning ideas into elegant, code-driven solutions.
+
+**Creative Technologist • Systems Explorer • Rust Enthusiast**
+
+Driven by curiosity and the pursuit of technical elegance—whether it's building minimalist distributed systems or crafting visually expressive user interfaces. 
+I love turning complex ideas into clean, robust solutions that feel intuitive and beautiful.
 
 ---
 
-## 💻 Skills & Expertise
-- **Programming:** Swift, SwiftUI, Rust 🦀, HTML basics  
-- **Design & Creativity:** UI/UX, interactive animations, visual storytelling  
-- **Focus Areas:** Mobile development (iOS), systems programming, distributed systems
-- **Languages:** Italian, English, Latin  
+## 🛠️ Skills & Interests
+
+- **Programming:** Swift, SwiftUI, Rust 🦀 (passionate about code that's both safe and expressive)
+- **Systems:** Distributed storage, key-value architectures, backend engineering  
+- **Design:** UI/UX, interactive animations, visual storytelling  
+- **Languages:** Italian & English  
 - **Education:** Aix-Marseille University (LLCER – Italian)
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-### Mobile & Interactive Design
-- **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization)** – SwiftUI animation inspired by DNA, merging science & creativity.  
-- **🌙 [Moon](https://github.com/whispem/LunarView)** – Interactive SwiftUI moon animation, showcasing UX finesse.  
+**Systems & Rust**  
+- **🦀 [mini-kvstore](https://github.com/whispem/mini-kvstore):** Exploring minimalist approaches to distributed key-value stores.  
+- **🦀 [CSV-Key-Value-Store](https://github.com/whispem/CSV-Key-Value-Store):** Playing with data abstractions and robust systems in Rust.  
+- **🦀 [Quote-of-the-day](https://github.com/whispem/Quote-of-the-day):** Where utility meets playful code.
 
-### Systems & Learning
-- **🦀 [My First Rust Project](https://github.com/whispem/Hello-Rust)** – Learning Rust fundamentals and systems programming. Started October 27, 2025 at 00:27 UTC+1.
-
-### Upcoming
-- **📊 Data Visualizations** – Exploring real-world applications through design-driven code.
-
----
-
-## 🌱 Currently Learning
-
-**Rust** 🦀 – *Started October 27, 2025 at 00:27 UTC+1*
-
-I'm thrilled to be diving into systems programming! Coming from Swift and mobile development, I'm curious to explore the "other side"—how things work under the hood, memory management, ownership models, and performance-critical code.
-
-The journey from pixels to protocols begins now. 🚀
-
-**Current focus:**
-- Rust fundamentals (ownership, borrowing, lifetimes)
-- Systems programming concepts
-- Distributed systems architecture
-- Open source contribution
-
-*Goal: Contribute to real-world Rust projects and understand how robust backend systems are built.*
+**Mobile & Interactive**  
+- **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization):** SwiftUI animation blending science and design.  
+- **🌙 [Moon](https://github.com/whispem/LunarView):** Interactive moon animation for UX/creative exploration.
 
 ---
 
-## 🌟 About me
-I love exploring cities, learning new languages, and experimenting with interactive tech.  
-Curiosity drives me, and I thrive at the intersection of design, code, and creativity.  
+## 🌱 Learning Journey
 
-I aim to build **clean, beautiful, and playful solutions** that make an impact—from elegant mobile apps to robust backend systems.
+**Rust & Distributed Systems — Since 27 Oct 2025**
 
-Always learning. Always iterating. Always coding.  
+Inspired by open source creators who build for clarity, resilience, and performance. 
+My current obsession: understanding ownership, lifetimes, and designing systems where simplicity breeds reliability.
 
----
-
-## 📫 Connect with me
-You can find me here:  
-
-[GitHub](https://github.com/whispem) | [X](https://twitter.com/whisp_em) | [HuggingFace](https://huggingface.co/whispem) | [Kaggle](https://www.kaggle.com/whispem)  
+**Current focus:**  
+- Systems programming in Rust: embracing safety, minimalism, and clear documentation  
+- Distributed system principles: learning from elegant architectural solutions  
+- Performance, readability, and "less is more" in code  
+- Collaboration in environments where knowledge is generously shared
 
 ---
 
-*✨ Fun fact: I love combining tech and design to make projects that are as enjoyable to build as they are to use.*
+## 🔎 About Me
+
+Linguist at heart (IT/EN). 
+Tech explorer. 
+Design lover.  
+My approach: combine creative curiosity with technical precision—whether for mobile apps or distributed systems. 
+I believe that the most impactful solutions are both beautiful and robust, and that technical elegance is a form of respect for users and collaborators alike.
+
+Always iterating. 
+Always learning. 
+Always striving for clean design—in code and in life.
+
+---
+
+## 📬 Connect
+
+- [GitHub](https://github.com/whispem)
+- [X / Twitter](https://twitter.com/whisp_em)
+- [HuggingFace](https://huggingface.co/whispem)
+- [Kaggle](https://www.kaggle.com/whispem)
+
+---
+
+*Fun fact: I see true elegance in both code and design—the kind you recognize instantly because everything feels balanced, polished, and deceptively simple. 
+For me, the ultimate goal is to make complexity invisible to the user and beauty an everyday feature.*
