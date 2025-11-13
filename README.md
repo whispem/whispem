@@ -22,7 +22,6 @@ I love turning complex ideas into clean, robust solutions that feel intuitive an
 **Systems & Rust**  
 - **🦀 [mini-kvstore](https://github.com/whispem/mini-kvstore):** Exploring minimalist approaches to distributed key-value stores.  
 - **🦀 [CSV-Key-Value-Store](https://github.com/whispem/CSV-Key-Value-Store):** Playing with data abstractions and robust systems in Rust.  
-- **🦀 [Quote-of-the-day](https://github.com/whispem/Quote-of-the-day):** Where utility meets playful code.
 
 **Mobile & Interactive**  
 - **🧬 [DNA Visualization](https://github.com/whispem/DNA-Helix-3D-Visualization):** SwiftUI animation blending science and design.  
