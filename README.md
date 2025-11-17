@@ -78,8 +78,6 @@ My goal is always the same: make things simple, intentional, and pleasant to use
 
 ---
 
-## 🔎 About Me
-
 ## 🔎 About Me  
 
 Background in linguistics; mindset oriented toward structure and system behavior.  
