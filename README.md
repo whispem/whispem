@@ -218,15 +218,6 @@ If you find my projects helpful:
 
 ---
 
-## 📝 Recent Activity
-
-
-
----
-
-
 **"Structure determines outcome. Precision isn't optional. You learn by building."**
 
 *Building in public, learning from first principles, sharing the journey.*
-
-</div>
