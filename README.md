@@ -172,7 +172,7 @@ Structure determines outcome. Precision isn't optional. Systems should tell thei
 ## 📬 Connect
 
 - **GitHub:** [github.com/whispem](https://github.com/whispem)
-- **LinkedIn:** [linkedin.com/in/emilie-profile](https://www.linkedin.com/in/your-profile) *(à remplacer)*
+- **LinkedIn:** [linkedin.com/in/emilie-peretti](https://www.linkedin.com/in/your-profile)
 - **X/Twitter:** [twitter.com/whisp_em](https://twitter.com/whisp_em)
 - **HuggingFace:** [huggingface.co/whispem](https://huggingface.co/whispem)
 - **Email:** `contact.whispem@gmail.com`
