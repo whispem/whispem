@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub followers](https://img.shields.io/github/followers/whispem?style=social)](https://github.com/whispem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/rust-aix-marseille-ram/)
-[![Discord](https://img.shields.io/badge/Discord-Join_RAM-5865F2?logo=discord&logoColor=white)](https://discord.gg/sXr9ZqBJ)
 
 From literature & linguistics to building distributed storage engines in Rust — my journey proves that curiosity and persistence matter more than background.
 
@@ -172,7 +171,7 @@ Structure determines outcome. Precision isn't optional. Systems should tell thei
 ## 📬 Connect
 
 - **GitHub:** [github.com/whispem](https://github.com/whispem)
-- **LinkedIn:** [linkedin.com/in/emilie-peretti](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [linkedin.com/in/emilie-peretti](https://www.linkedin.com/in/emilie-peretti)
 - **X/Twitter:** [twitter.com/whisp_em](https://twitter.com/whisp_em)
 - **HuggingFace:** [huggingface.co/whispem](https://huggingface.co/whispem)
 - **Email:** `contact.whispem@gmail.com`
