@@ -2,11 +2,6 @@
 
 **Rust Developer · Distributed Storage Systems · Community Builder**
 
-[![Rust](https://img.shields.io/badge/Rust-1.81%2B-orange?logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub followers](https://img.shields.io/github/followers/whispem?style=social)](https://github.com/whispem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/rust-aix-marseille-ram/)
-
 From literature & languages (italian & english) to building distributed storage engines in Rust — my journey shows that curiosity and persistence matter more than background.
 
 
@@ -17,12 +12,6 @@ Working on consensus (Raft), atomic writes (2PC), sharding, durability (WAL), an
 
 **Latest project:** [minikv](https://github.com/whispem/minikv)  
 Production-ready distributed key-value store with Raft, strong consistency, sharding, and durability.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/whispem/minikv/ci.yml?branch=main&label=CI)](https://github.com/whispem/minikv/actions)
-[![Production Ready](https://img.shields.io/badge/status-production_ready-brightgreen.svg)](https://github.com/whispem/minikv)
-[![Docker](https://img.shields.io/badge/docker-ready-2496ED?logo=docker&logoColor=white)](https://github.com/whispem/minikv/blob/main/Dockerfile.coordinator)
-[![Performance](https://img.shields.io/badge/writes-80K_ops%2Fs-brightgreen)](https://github.com/whispem/minikv#benchmarks)
-[![Performance](https://img.shields.io/badge/reads-8M_ops%2Fs-brightgreen)](https://github.com/whispem/minikv#benchmarks)
 
 - Raft-based cluster coordination & failover
 - Two-phase commit for distributed writes
