@@ -78,15 +78,11 @@ Segmented, append-only key-value store (single node)
 - 240K writes/sec, 11M reads/sec
 
 
-## 🌍 Community & Writing
+## 🌍 Community
 
 **Rust Aix-Marseille (RAM):**  
 Co-organizing monthly meetups for Rust developers in Southern France.  
 [Discord Server](https://discord.gg/sXr9ZqBJ) • [LinkedIn](https://www.linkedin.com/company/rust-aix-marseille-ram/)
-
-**Recent Posts:**
-- [3 weeks into Rust: Built a segmented log KV store](https://www.reddit.com/r/rust/comments/1p0foo8/3_weeks_into_rust_built_a_segmented_log_kv_store/)
-- [Follow-up: HTTP API + production features](https://www.reddit.com/r/rust/comments/1p2vmi6/followup_built_a_segmentedlog_storage_engine_3/)
 
 
 ## 💭 Philosophy
