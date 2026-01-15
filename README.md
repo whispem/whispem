@@ -6,7 +6,7 @@ From literature & languages to designing storage engines in Rust. Curiosity beat
 
 ---
 
-## 🦀 What I Do
+## 🦀 What I do
 
 - Building distributed key-value storage: Raft consensus, 2PC, WAL, sharding
 - Current project: [minikv](https://github.com/whispem/minikv) — production-grade, Raft-based distributed store
