@@ -1,4 +1,4 @@
-# 👋🏼 Hi there
+# Hi there 👋🏼
 
 I'm Emilie — Rust developer & distributed systems enthusiast.
 
