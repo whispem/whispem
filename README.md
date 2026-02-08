@@ -1,29 +1,58 @@
 # Hi there 👋🏼
 
-I'm Emilie — Rust developer & distributed systems enthusiast.
+I'm Emilie — Rust developer, distributed systems enthusiast, and passionate about language design.  
+From literature & languages to building storage systems in Rust: curiosity drives innovation.
 
-From literature & languages to designing storage engines in Rust. Curiosity beats background.
+---
 
+## 👩🏻‍💻 Projects
 
-## 🦀 What I do
+### [whispem-lang](https://github.com/whispem/whispem-lang)
 
-- Building distributed key-value storage: Raft consensus, 2PC, WAL, sharding
-- Current project: [minikv](https://github.com/whispem/minikv) — production-grade, Raft-based distributed store
-- Community: Founder [Rust Aix-Marseille (RAM)](https://discord.gg/dZUtD9S2rT)
+whispem-lang is a minimalist open-source programming language built for clarity, expressiveness, and calm readability.
 
-Started Rust: Oct 27, 2025  
-[Learning journey](https://github.com/whispem/minikv/blob/main/LEARNING.md)
+**Core philosophy:**
+- Simple to read, easy to reason about
+- No hidden behavior; every feature must justify its existence
+- The entire language fits in your head
 
+It offers a smooth learning curve, explicit logic, and comprehensive documentation.  
+Production-ready for scripting, rapid prototyping, teaching programming and language design.
 
-## 📁 Projects
+**Main features:**
+- Clear, concise syntax (no semicolons, line-oriented)
+- Explicit control flow and data types
+- Arrays, strings, input/output, file operations built-in
+- Helpful error messages  
+- Documentation for all features
 
-- **[minikv](https://github.com/whispem/minikv):** Distributed, strongly consistent KV store (Raft, 2PC, sharding, WAL)
-- **[mini-kvstore-v2](https://github.com/whispem/mini-kvstore-v2):** Fast single-node segmented KV engine (append-only, compaction)
+whispem-lang is not meant to replace Python, JS or Rust.  
+Instead, it is:
+- A teaching and exploration tool
+- Minimal and approachable
+- Useful for scripting, education, and rapid prototyping
 
+**Philosophy:** Whisper intent, don’t shout complexity.  
+**Status:** Feature-complete and stable (v1.0.0).  
+**License:** MIT
 
-## 📬 Connect
+> whispem-lang is for anyone who wants to fully understand their programming tools.
 
-[GitHub](https://github.com/whispem) • [LinkedIn](https://www.linkedin.com/in/emilie-peretti) • [Discord RAM](https://discord.gg/dZUtD9S2rT) • contact.whispem@gmail.com
+---
 
+### [minikv](https://github.com/whispem/minikv)
+
+Distributed, strongly consistent key-value store (Raft, 2PC, sharding, WAL).
+
+---
+
+## 🌍 Community & Contact
+
+- [GitHub](https://github.com/whispem)
+- [LinkedIn](https://www.linkedin.com/in/emilie-peretti)
+- [Discord RAM](https://discord.gg/dZUtD9S2rT)
+- contact.whispem@gmail.com
+
+---
 
 *"The best way to learn is to build."*
