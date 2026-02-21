@@ -33,7 +33,7 @@ Instead, it is:
 - Useful for scripting, education, and rapid prototyping
 
 **Philosophy:** Whisper intent, don’t shout complexity.  
-**Status:** Feature-complete and stable (v1.0.0).  
+**Status:** Feature-complete and stable (v1.5.0).  
 **License:** MIT
 
 > whispem-lang is for anyone who wants to fully understand their programming tools.
