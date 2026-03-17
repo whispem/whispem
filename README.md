@@ -60,4 +60,4 @@ cargo test                                   # 110 Rust tests
 
 *"The best way to learn is to build."*
 
-**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)
+**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)**
