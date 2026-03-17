@@ -60,27 +60,4 @@ cargo test                                   # 110 Rust tests
 
 *"The best way to learn is to build."*
 
-**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)**    else if n % 5 == 0 { print "Buzz" }
-    else { print n }
-}
-```
-
-```bash
-make
-./wvm compiler/wsc.whbc examples/hello.wsp   # compile + run
-cargo test                                   # 110 Rust tests
-```
-
----
-
-## Also
-
-**[dprism](https://github.com/whispem/dprism)** — terminal-native data profiling tool in Rust. htop meets pandas-profiling. Explore multi-GB datasets instantly without leaving your terminal. Built with Polars and Ratatui.
-
-**[minikv](https://github.com/whispem/minikv)** — distributed key-value store in Rust. Raft consensus, 2PC transactions, 256 virtual shards, S3-compatible API, 50 000+ writes/sec.
-
----
-
-*"The best way to learn is to build."*
-
-**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)**
+**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)
