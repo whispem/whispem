@@ -17,7 +17,7 @@ Everything I ship is open source, MIT-licensed, and built in public.
 
 ## whispem-lang
 
-[![Version](https://img.shields.io/badge/version-5.0.0-cyan)](https://github.com/whispem/whispem-lang/releases) [![Tests](https://img.shields.io/badge/tests-147_passing-brightgreen)](https://github.com/whispem/whispem-lang) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](https://github.com/whispem/whispem-lang)
+[![Version](https://img.shields.io/badge/version-5.0.0-cyan)](https://github.com/whispem/whispem-lang/releases) [![Tests](https://img.shields.io/badge/tests-167_passing-brightgreen)](https://github.com/whispem/whispem-lang) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](https://github.com/whispem/whispem-lang)
 
 **[whispem-lang](https://github.com/whispem/whispem-lang)** is a small, self-hosted programming language. The compiler is written in Whispem itself and compiles itself, producing byte-identical output with the reference Rust implementation. It runs on a standalone C VM with no dependencies beyond a C compiler. Rust remains the reference implementation.
 
@@ -26,7 +26,7 @@ Everything I ship is open source, MIT-licensed, and built in public.
 - **Self-hosted compiler** — `compiler/wsc.wsp`: 1724 lines of Whispem for the full pipeline. Source in, `.whbc` bytecode out—identical to Rust output.
 - **Verified bootstrap** — The compiler compiles itself. Both outputs share the same SHA-1, ensuring a stable fixed point.
 - **Standalone C VM** — `vm/wvm.c`: a single-file runtime (~2000 lines) with 34 opcodes, interactive REPL, and a `--dump` disassembler.
-- **147 tests, zero warnings** — 110 Rust tests + 37 autonomous C VM tests with bootstrap verification.
+- **147 tests, zero warnings** — 130 Rust tests + 37 autonomous C VM tests with bootstrap verification.
 
 ```wsp
 fn factorial(n) {
