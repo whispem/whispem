@@ -26,7 +26,7 @@ Everything I ship is open source, MIT-licensed, and built in public.
 - **Self-hosted compiler** — `compiler/wsc.wsp`: 1724 lines of Whispem for the full pipeline. Source in, `.whbc` bytecode out—identical to Rust output.
 - **Verified bootstrap** — The compiler compiles itself. Both outputs share the same SHA-1, ensuring a stable fixed point.
 - **Standalone C VM** — `vm/wvm.c`: a single-file runtime (~2000 lines) with 34 opcodes, interactive REPL, and a `--dump` disassembler.
-- **147 tests, zero warnings** — 130 Rust tests + 37 autonomous C VM tests with bootstrap verification.
+- **167 tests, zero warnings** — 130 Rust tests + 37 autonomous C VM tests with bootstrap verification.
 
 ```wsp
 fn factorial(n) {
@@ -45,7 +45,7 @@ for n in range(1, 16) {
 ```bash
 make
 ./wvm compiler/wsc.whbc examples/hello.wsp   # compile + run
-cargo test                                   # 110 Rust tests
+cargo test                                   # 130 Rust tests
 ```
 
 ---
