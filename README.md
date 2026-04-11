@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-**I'm Emilie — Rust developer, distributed systems enthusiast, and passionate about language design.**  
+**I'm Emilie — Data Science Student @ Aix-Marseille School of Economics (AMSE), Rust developer, distributed systems enthusiast, and passionate about language design.**  
 *From literature & languages to building programming languages in Rust: curiosity drives innovation.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-whispem-181717?logo=github)](https://github.com/whispem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-emilie--peretti-0A66C2?logo=linkedin)](https://www.linkedin.com/in/emilie-peretti) [![Discord](https://img.shields.io/badge/Discord-RAM-5865F2?logo=discord&logoColor=white)](https://discord.gg/dZUtD9S2rT) [![Email](https://img.shields.io/badge/Email-contact.whispem-EA4335?logo=gmail&logoColor=white)](mailto:contact.whispem@gmail.com)
