@@ -9,7 +9,7 @@
 
 I build systems that are meant to be read, understood, and taken apart. I work primarily in Rust, across two domains: **programming language design** and **distributed infrastructure** — both driven by the same conviction: complexity should be earned, never hidden.
 
-Everything I ship is open source, MIT-licensed, and built in public.
+Everything I ship is open source, licensed and built in public.
 
 ---
 
