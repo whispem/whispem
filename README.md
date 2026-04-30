@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-**I'm Emilie — Data Science Student @ Aix-Marseille School of Economics (AMSE), Rust developer, distributed systems enthusiast, and passionate about language design.**  
+**I'm Emilie — Founder @ [WhispHub](https://whisphub.dev), Data Science Student @ Aix-Marseille School of Economics (AMSE), Rust developer, distributed systems enthusiast, and passionate about language design.**  
 *From literature & languages to building programming languages in Rust: curiosity drives innovation.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-whispem-181717?logo=github)](https://github.com/whispem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-emilie--peretti-0A66C2?logo=linkedin)](https://www.linkedin.com/in/emilie-peretti) [![Discord](https://img.shields.io/badge/Discord-RAM-5865F2?logo=discord&logoColor=white)](https://discord.gg/dZUtD9S2rT) [![Email](https://img.shields.io/badge/Email-contact.whispem-EA4335?logo=gmail&logoColor=white)](mailto:contact.whispem@gmail.com)
@@ -9,11 +9,29 @@
 
 I build systems that are meant to be read, understood, and taken apart. I work primarily in Rust, across two domains: **programming language design** and **distributed infrastructure** — both driven by the same conviction: complexity should be earned, never hidden.
 
-Everything I ship is open source, licensed and built in public.
+Most of what I ship is open source. WhispHub, my latest project, is a hosted product I keep private — but everything else lives on GitHub, MIT-licensed, built in public.
 
 ---
 
 ## Projects 👩🏻‍💻
+
+## WhispHub
+
+[![Live](https://img.shields.io/badge/status-live-brightgreen)](https://whisphub.dev) [![Stack](https://img.shields.io/badge/stack-Rust%20%2B%20Astro-cyan)](https://whisphub.dev/about) [![Solo](https://img.shields.io/badge/built-solo-blueviolet)](https://whisphub.dev/about)
+
+**[WhispHub](https://whisphub.dev)** is a social space for makers — a place where a project gets a *living page*, not just a code repo. Built solo over six months in Rust + Astro. Officially launched April 29, 2026.
+
+> *Small ideas, big echoes.*
+
+- **A full page per project** — share the *why*, not just the code
+- **Hearts instead of stars** — relational, not just a counter
+- **Echoes instead of forks** — share the meaning, not duplicate the code  
+- **Pulses instead of commits** — capture the rhythm of your work over time
+- **Zero tracking, zero ads, GDPR by design** — quiet by intention
+
+The product is hosted at **[whisphub.dev](https://whisphub.dev)** — free for everyone. Read the full story on the [About page](https://whisphub.dev/about).
+
+---
 
 ## whispem-lang
 
@@ -60,4 +78,4 @@ cargo test                                   # 153 Rust tests
 
 *"The best way to learn is to build."*
 
-**[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)**
+**[WhispHub](https://whisphub.dev)** · **[GitHub](https://github.com/whispem)** · **[LinkedIn](https://www.linkedin.com/in/emilie-peretti)** · **[Discord](https://discord.gg/dZUtD9S2rT)** · **[contact.whispem@gmail.com](mailto:contact.whispem@gmail.com)**
