@@ -120,7 +120,7 @@ Linux, NASM, no libc, no external calls — `syscall` or nothing.
 - **Coreutils, by hand** — `cat`, `wc`, `ls` and `grep` in pure assembly (filed under "warm-up")
 - **`printf` and `malloc` from scratch** — varargs parsing, `brk`/`mmap`, free lists, alignment
 - **A working shell** — `fork`, `execve`, pipes and redirections, all in raw syscalls
-- **Boss fights ahead** — a Forth interpreter, a self-hosting assembler, a bootloader… and, eventually, a mini-kernel
+- **Boss fights ahead** — a Forth interpreter (done!), a self-hosting assembler, a bootloader… and, eventually, a mini-kernel
 
 The piscine teaches you to swim. This repo is the bottom of the pool.
 
@@ -137,8 +137,4 @@ The piscine teaches you to swim. This repo is the bottom of the pool.
 *"The best way to learn is to build."*
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilie-peretti)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dZUtD9S2rT)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.whispem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilie-peretti) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dZUtD9S2rT) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.whispem@gmail.com)
