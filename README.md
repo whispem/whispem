@@ -5,6 +5,8 @@ I build programming languages and distributed systems in Rust — mostly to unde
 
 *A DESU in Data Science freshly in hand (Aix-Marseille School of Economics), and currently learning to swim in the [42](https://42.fr) piscine — curiosity does that to you. 🏊🏼‍♀️*
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&right_color=%2328e2ff)
+
 ---
 
 > *Around here, everything begins with a whisper.*
