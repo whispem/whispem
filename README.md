@@ -26,7 +26,7 @@ Everything here is open source, MIT-licensed, built in public.
 
 ---
 
-## Selected work 🫧
+## Selected work
 
 **[whispem-lang](https://github.com/whispem/whispem-lang)** — a language that compiles itself. A self-hosted compiler written in Whispem, byte-identical to its Rust reference, on a dependency-free C VM.
 
