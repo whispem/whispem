@@ -40,6 +40,8 @@ Everything here is open source, MIT-licensed, built in public.
 
 ## Also building
 
-- **[WhispHub](https://whisphub.dev)** — a living page for every project: hearts, not stars; echoes, not forks. Zero tracking, GDPR by design.
-- **[learn-assembly-with-em](https://github.com/whispem/learn-assembly-with-em)** — a public descent into x86-64: `printf`, `malloc`, a shell, a bootloader, no libc.
-- **[dprism](https://github.com/whispem/dprism)** — terminal-native data profiling in Rust, powered by Polars + Ratatui.
+**[WhispHub](https://whisphub.dev)** — a living page for every project: hearts, not stars; echoes, not forks. Zero tracking, GDPR by design.
+
+**[learn-assembly-with-em](https://github.com/whispem/learn-assembly-with-em)** — a public descent into x86-64: `printf`, `malloc`, a shell, a bootloader, no libc.
+
+**[dprism](https://github.com/whispem/dprism)** — terminal-native data profiling in Rust, powered by Polars + Ratatui.
