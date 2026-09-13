@@ -15,11 +15,9 @@
 I came to code from the other side of language — literature and grammar, the human kind. 
 
 Somewhere between conjugation tables and my first compiler error, it clicked: a programming language is just another grammar, one where intent becomes action. 
-
 So I stopped only learning languages and started building them.
 
 I'm drawn to things I can take apart: compilers, protocols, the machine underneath. 
-
 Half the time I end up rebuilding them just to see how they work.
 
 Everything here is open source, MIT-licensed, built in public.
