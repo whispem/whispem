@@ -6,6 +6,6 @@ Building them in public from Aix-Marseille.
 Previously, data science at AMSE.
 Before that, literature and linguistics — the human kind of grammar, and where it all started.
 
-I rebuild the stack until I understand it: C/C++ inference engines, hand-rolled Rust servers, and x86-64 with no libc.
+I take systems apart and put them back together, from the grammar of a language down to the syscall. Rust, x86-64, and C++.
 
 🌐 [eperetti.com](…) · 🫧 [WhispHub](…) · 🐦 [@whispem_io](…)
