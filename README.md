@@ -7,7 +7,7 @@ Before that, literature and linguistics — the human kind of grammar, and where
 
 I take systems apart and put them back together, from the grammar of a language down to the syscall. Rust, x86-64, and C++.
 
-I’m writing Scripta manent, a Rust book on key-value stores, to be published in French by D-BookeR in 2027: the data is a word until it is written down.
+I’m writing *Scripta manent*, a Rust book on key-value stores, to be published in French by D-BookeR in 2027: the data is a word until it is written down.
 
 
 🌐 [eperetti.com](…) · 🫧 [WhispHub](…) · 🐦 [@whispem_io](…)
